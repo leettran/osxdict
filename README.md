@@ -21,10 +21,10 @@ make install
 ## USAGE
 
 ```
-osx-dictionary [-a | -A | -d name [-d name] ... ] [-j] <term> ...
-osx-dictionary -l [-A]
+example use: osxdict [-a | -A | -d name [-d name] ... ] [-j] <term> ...
+alternative: osxdict -l [-A]
 
-options:
+available options:
    -h, --help                 print this help information
    -d, --dictionary <name>    look up term in dictionary <name>
    -a, --active               look up term in active dictionary
